@@ -1,6 +1,5 @@
 
-$\mathbf{B}$
-
+TensorBoard Tutorial - Complete with example logs to review.
 
 If the Linux environment is not yet set up, run setup.sh to download the necessary libraries.
 
