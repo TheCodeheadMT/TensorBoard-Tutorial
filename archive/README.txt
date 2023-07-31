@@ -1,6 +1,6 @@
 View these logs by running the following command while in the parent directory. (one level up)
 
-# To see logs for building IMDB and MNIST models use:
+# To see logs for building IMDB, Reuters, and MNIST models use:
 tensorboard --logdir archive/logs/
 
 # To see MNIST alone use: 
